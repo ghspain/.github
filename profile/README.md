@@ -1,15 +1,42 @@
 # GitHub Community Spain
 
-Somos una comunidad de personas apasionadas por la tecnología y el conocimiento. Creemos en el poder de compartir, aprender y colaborar con otras personas que tienen los mismos intereses y objetivos que nosotros. Queremos crear un espacio abierto, inclusivo y diverso donde podamos expresarnos, inspirarnos y crecer juntos.
+![alt text](github-community.webp)
 
-Nuestra motivación es altruista y generosa. Nadie en la organización obtiene algún tipo beneficio monetario. Queremos aportar valor a la sociedad y al sector tecnológico con nuestros proyectos, nuestras ideas y nuestras experiencias. Queremos dar voz a personas expertas, referentes y emergentes que puedan compartir su conocimiento y su visión con nosotros.
+## Nuestra Comunidad
 
-Nuestra organización es abierta y participativa. Cualquier persona que quiera colaborar y ayudar a dinamizar nuestra comunidad es bienvenida. Queremos expandir nuestra red por diferentes lugares y ciudades de España, para llegar a más personas y crear más oportunidades. Respetamos a todas las personas que forman parte de nuestra comunidad, tanto ponentes como asistentes, y les pedimos que sigan nuestro código de conducta en cada evento.
+### Filosofía
 
-Nuestra comunidad se basa en todo lo que rodea GitHub, una plataforma conocida en el desarrollo de software y la innovación. GitHub nos permite gestionar nuestros proyectos, documentar nuestro trabajo y compartir nuestro código con el mundo. Reconocemos el valor de GitHub como herramienta y como filosofía de trabajo.
+- **Compartir, aprender y colaborar** con personas de intereses y objetivos comunes en el ámbito tecnológico.
+- **Ayudar** a personas que inician en el mundo de la tecnología y la programación a través de charlas, y eventos.
+- Crear un espacio **abierto, inclusivo, diverso** y seguro para que todas las personas puedan participar.
+- Fomentar la iniciación y la participación en **proyectos de código abierto**.
 
-Nuestra comunidad se nutre del conocimiento que generamos y compartimos entre nosotros. Fomentamos la cultura del aprendizaje continuo, la curiosidad y la experimentación. Animamos a todos los miembros de nuestra comunidad a que se involucren en el proceso de enseñar y aprender, tanto dentro como fuera de nuestra red.
+### Motivación
 
-Nuestra comunidad se proyecta hacia el futuro con optimismo y responsabilidad. Somos conscientes de los retos y las oportunidades que nos ofrece la tecnología. Queremos contribuir al desarrollo sostenible, ético e inclusivo de nuestra sociedad con nuestro trabajo.
+- **Altruista y generosa**: Sin beneficios monetarios.
+- **Aportar valor** a la sociedad y al sector tecnológico.
+- **Dar voz** a todo tipo de personas, expertas y referentes, pero también iniciadas y emergentes.
 
-Este es nuestro manifiesto. Esta es nuestra comunidad. Esta es GitHub Community Spain.
+### Organización
+
+- **Abierta y participativa**: Cualquier persona puede colaborar.
+- Expandir la red por diferentes **lugares y ciudades de España**.
+- **Respetar** a todos los miembros y seguir el código de conducta.
+
+### Enfoque en GitHub
+
+- Nuestra comunidad se basa en todo lo que rodea **GitHub**.
+- Reconocemos el valor de GitHub como herramienta y como filosofía de trabajo.
+
+### Cultura de Conocimiento
+
+- Aprendizaje continuo, curiosidad y experimentación.
+- Involucrar a todos en el proceso de enseñar y aprender.
+
+### Proyección Futura
+
+Nuestra comunidad se proyecta hacia el futuro con **optimismo y responsabilidad**. Somos conscientes de los retos y las oportunidades que nos ofrece la tecnología. Queremos contribuir al desarrollo **sostenible, ético e inclusivo** de nuestra sociedad con nuestro trabajo.
+
+---
+
+Este es nuestro **manifiesto**. Esta es nuestra **comunidad**. Esta es **GitHub Community Spain**.
